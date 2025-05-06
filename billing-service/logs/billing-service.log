@@ -161,3 +161,4 @@ Blood Test :- 500/- '}]
 2025-05-06 07:59:51 [http-nio-8089-exec-9] INFO  c.example.billing.aop.LoggingAspect - ✅ [CONTROLLER] Exiting: BillingController.getAllBills() with response: [Bill{id=1, patientId=2, patientName='user2', doctorId=2, doctorName='drsharma', amount=1500.00, billingDate=2025-05-10T07:57, status='PENDING', description='Doctor fee :- 1000/- 
 Blood Test :- 500/- '}]
 2025-05-06 08:00:37 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-06 08:05:37 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
